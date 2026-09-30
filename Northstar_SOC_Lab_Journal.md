@@ -446,12 +446,12 @@ This reconstruction intentionally avoids claiming exact dates where the availabl
 
 ### Manual Journal Entries
 
-09/24/2026: 
-# Work Performed: Log ingestion/parsing in splunk
-# Findings: Was able to match up fields of ipv4 and ipv6 logs from pfsense up to the ip version field making a search in spl much easier being able to isolate the two log types.
-# Problems / Troubleshooting: still need to create a differentiation for splunk between ipv4 and ipv6 to finish extracting the rest of the fields from each respective log type dependent on ip version.
-# What I Learned: I learned the steps and process to parse logs and intend on learning the structure of how to properly parse logs for field extraction to a more valuable skill level.
-# Next Steps: as I stated in problems and troubleshooting, the next objective is to finish parsing these logs to completion once i learn the key skill of how to tell splunk to ingest the logs differently depending on ip version.
+# 09/24/2026: 
+- Work Performed: Log ingestion/parsing in splunk
+- Findings: Was able to match up fields of ipv4 and ipv6 logs from pfsense up to the ip version field making a search in spl much easier being able to isolate the two log types.
+- Problems / Troubleshooting: still need to create a differentiation for splunk between ipv4 and ipv6 to finish extracting the rest of the fields from each respective log type dependent on ip version.
+- What I Learned: I learned the steps and process to parse logs and intend on learning the structure of how to properly parse logs for field extraction to a more valuable skill level.
+- Next Steps: as I stated in problems and troubleshooting, the next objective is to finish parsing these logs to completion once i learn the key skill of how to tell splunk to ingest the logs differently depending on ip version.
 
 
 09/25/2026: 
