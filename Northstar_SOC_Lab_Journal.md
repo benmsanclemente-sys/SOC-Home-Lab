@@ -505,7 +505,7 @@ This reconstruction intentionally avoids claiming exact dates where the availabl
 
 
 ### 09/29/2026: 
-**Work Performed:** finish the report an--- was able to fix a display issue with one of my virtual machines, found out that the display adapter was the basic windows one which limited and constricted my ability to work smoothly and still be able to visibly see the fullscreeen, after installing vbox's display adapter for windows i was able to find a configuration that worked however the issue remains of limiting my SPL searches that feature a table to about 5-7 fields so i can still see them, after that they are off screen and i cannot access.
+**Work Performed:** finished the report and was able to fix a display issue with one of my virtual machines, found out that the display adapter was the basic windows one which limited and constricted my ability to work smoothly and still be able to visibly see the fullscreeen, after installing vbox's display adapter for windows i was able to find a configuration that worked however the issue remains of limiting my SPL searches that feature a table to about 5-7 fields so i can still see them, after that they are off screen and i cannot access.
 
 **Findings:** report originally was intended to feature event A-C for different logs for each step of the powershell spawn, however, I found that its probably more realistic to just kinda show the code and fill out the report in a more concise amanner as it is one genuine event with multiple parts, creating one event report is still the logical conclusion. 
 
