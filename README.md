@@ -52,7 +52,7 @@ There are a few ideas and thoughts I've had about this home lab because I am lea
 
 
 ## Home Lab Journal
-
+[Northstar SOC Lab Journal] (Northstar_SOC_Lab_Journal.md)
 
 ## Image of Current Virtual Machines and Splunk
 <img width="3838" height="1157" alt="{6EE2CA46-EA0D-4B5D-AB3B-078EF935DA79}" src="https://github.com/user-attachments/assets/f52d56f4-62f3-4c46-a739-c233594687ec" />
