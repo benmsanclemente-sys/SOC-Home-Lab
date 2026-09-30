@@ -23,7 +23,7 @@ My goal is to understand not only how to investigate security events, but also h
                           Ubuntu Splunk VM
 ```
 
-#The environment currently contains six virtual machines across seperate internal, DMZ, and adversary networks, with pfSense acting as the firewall and internet gateway.
+The environment currently contains six virtual machines across seperate internal, DMZ, and adversary networks, with pfSense acting as the firewall and internet gateway.
 
 ## Virtual Machines
 
