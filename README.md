@@ -48,3 +48,10 @@ Starting at the network edge, the pfSense VM is functioning as intended and forw
 
 ## Future Plans
 There are a few ideas and thoughts I've had about this home lab because I am learning as I build this I realize improvements that can be made after the fact. One example of this was the creation of the Windows Employee VM, that only occurred because I didn't like the idea that my logs were being created by the device that was viewing them. some Current goals for my home lab are to integrate more telemetry, set up the NGINX server to better represent a public facing website, change the Windows SOC VM to a Linux SOC VM, add a VLAN for a separate IT/SOC network. I also think configuring the SIEM to add alerts or flags, so when an event happens it notifies me as opposed to me having to do the specific SPL search to find relevant log data. 
+
+
+
+
+
+
+<img width="3838" height="1157" alt="{6EE2CA46-EA0D-4B5D-AB3B-078EF935DA79}" src="https://github.com/user-attachments/assets/f52d56f4-62f3-4c46-a739-c233594687ec" />
