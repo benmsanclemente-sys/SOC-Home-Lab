@@ -26,3 +26,21 @@ My goal is to understand not only how to investigate security events, but also h
 #The environment currently contains six virtual machines across seperate internal, DMZ, and adversary networks, with pfSense acting as the firewall and internet gateway.
 
 ## Virtual Machines
+
+### PFSENSE-FIREWALL
+pfSense firewall and router providing internet access, DHCP, network segmentation, and traffic control between the lab and networks.
+
+### UBUNTU-SERVER-SPLUNK
+Ubuntu server hosting Splunk Enterprise for centralized log ingestion, searching, and security monitoring.
+
+### NS-EMPLOYEE-01
+Windows 11 workstation representing an employee endpoint and future attack target.
+
+### NS-SOC-01
+Windows 11 workstation used for SOC administration, Splunk access, and pfSense management.
+
+### UBUNTU-SERVER-PUBLIC-FACING-WEBSITE
+Ubuntu server running NGINX in the DMZ to represent a public-facing service and potential attack surface.
+
+## Current Capabilities
+Starting at the network edge, pfSense VM is functioning as intended and forwards pfSense logs into Splunk as well as functioning as a firewall and enforces rules regarding communication between the internal network and the public facing website network and enforces other rules that were necessary for functionality.
